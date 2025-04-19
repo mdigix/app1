@@ -18,3 +18,7 @@ English:
 - Git / GitHub（バージョン管理・公開）
 
 ## 🔧 セットアップ / Setup(作成中です)
+
+## 📄 ライセンス / License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
